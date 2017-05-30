@@ -1,4 +1,4 @@
-# Proyecto de Computación Visual RacingCar.
+# Interacción usando ProScene.
 
 
 Autores:
